@@ -18,6 +18,18 @@ namespace sharpworm
             get { return _ipaddr; }
             set { _ipaddr = value; }
         }
+        private bool _dcom_up = false;
+        public bool dcom_up
+        {
+            get { return _dcom_up; }
+            set { _dcom_up = value; }
+        }
+        private bool _rdp_up = false;
+        public bool rdp_up
+        {
+            get { return rdp_up; }
+            set { _rdp_up = value; }
+        }
 
     }
 }

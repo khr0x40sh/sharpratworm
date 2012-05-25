@@ -54,6 +54,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="quarkspwdump.cs" />
     <Compile Include="reader.cs" />
+    <Compile Include="scanner.cs" />
     <Compile Include="shell_exec.cs" />
     <Compile Include="targets.cs" />
   </ItemGroup>
