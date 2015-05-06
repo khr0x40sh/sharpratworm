@@ -1,0 +1,1 @@
+Managed version (C#) of RATworm, a RAT with worm like capabilities, for research and testing.  **WARNING**: use at your own risk!
